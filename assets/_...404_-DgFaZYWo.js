@@ -1,1 +1,0 @@
-import{d as n,c as r,o as s,a as e}from"./app-DaohdzRc.js";const a={class:"markdown-body"},d={},m="",u=n({__name:"[...404]",setup(c,{expose:o}){return o({frontmatter:{},excerpt:void 0}),(l,t)=>(s(),r("div",a,t[0]||(t[0]=[e("h1",null,"404",-1),e("p",null,[e("em",null,"<(^~^)> Page not found!!!")],-1)])))}});export{u as default,m as excerpt,d as frontmatter};
